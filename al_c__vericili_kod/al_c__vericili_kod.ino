@@ -18,6 +18,7 @@ long kaydedilecekVeri2;
 long kaydedilecekVeri3;
 long payload[4];
 long bytes[4];
+//Comment
 
 void setup() {
   pinMode(23, INPUT); //kayıt modu
